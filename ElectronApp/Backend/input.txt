@@ -1,0 +1,7 @@
+Product adding
+{
+    "name": "Example Product",
+    "total_stock": 100,
+    "available_items": 50,
+    "each_item_cost": 25.99
+}
